@@ -20,6 +20,7 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 10px 100px;
+    background: black;
 }
 .logo__wrapper{
     display: flex;
@@ -80,4 +81,10 @@ header ul li a:hover{
 }
 .btn button a:hover{
     color: #2c2c2c;
+}
+.next-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
 }
